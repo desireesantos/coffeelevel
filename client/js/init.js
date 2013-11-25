@@ -1,0 +1,1 @@
+var myProgressBar = new ProgressBar("meter-value");

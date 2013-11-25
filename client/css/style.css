@@ -1,0 +1,27 @@
+.meter-wrap{
+    position: relative;
+    float: 
+}
+
+.meter-wrap, .meter-value, .meter-text {
+    width: 355px; 
+    height: 30px;
+    border-radius: 10px;
+}
+.meter-value{
+    background-color: #0a0; 
+    width: 40%;
+}
+.meter-wrap{
+    background: #bdbdbd;
+}
+
+.meter-text {
+    position: absolute;
+    top:0; 
+    left:0;
+    padding-top: 5px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
