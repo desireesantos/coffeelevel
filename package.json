@@ -3,14 +3,8 @@
   "version": "1.0.0",
   "description": "Show coffee Level",
   "main": "index.js",
-  "scripts": {
-    "test": ""
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/desireesantos/coffeelevel.git"
-  },
-  "author": "",
-  "license": "CopyLeft"
-  }
-}
+
+  "author": "Desiree Santos - @desisant",
+  "license": "BSD",
+  "dependencies": ""
+}  
